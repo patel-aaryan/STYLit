@@ -22,3 +22,12 @@ View in real-time any clothes you want on your own body, no matter where you are
     - Worked on the back-end, helping process images to have a transparent background.
     - Also worked heavily with Mediapipe to scale clothes to match users in real-time.
     - Helped with the front-end to create a form to help upload images.
+
+## Installation
+
+Install both sets of dependencys for both folders and run a command for each respective folder:
+
+```bash
+$ node server.js
+$ npm run dev
+```
